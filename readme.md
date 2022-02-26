@@ -8,4 +8,10 @@ Z-Probe: https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe
 
 Keybak: https://github.com/VoronDesign/Voron-Switchwire
 
-![rendered_f.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/front_ren.png?raw=true)
+![front_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/front_ren.png?raw=true)
+
+![fronttopleft_ren.png.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/fronttopleft_ren.png?raw=true)
+
+![fronttopright_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/fronttopright_ren.png?raw=true)
+
+![back_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/back_ren.png?raw=true)
