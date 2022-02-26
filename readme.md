@@ -1,4 +1,4 @@
-### Kingroon KP3s CoreXZ Mod
+### Kingroon KP3s CoreXZ / 'HALFWIRE'
 
 Toolhead: Mod of https://github.com/KurioHonoo/Mini-AfterSherpa
 
