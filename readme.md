@@ -1,12 +1,12 @@
 ### Kingroon KP3s CoreXZ Mod
 
-Toolhead: https://github.com/KurioHonoo/Mini-AfterSherpa
+Toolhead: Mod of https://github.com/KurioHonoo/Mini-AfterSherpa
 
 Extruder: https://github.com/CroXY3D/Sailfin-Extruder
 
-Z-Probe: https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe
+Z-Probe: Mod of https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe
 
-Keybak: https://github.com/VoronDesign/Voron-Switchwire
+Keybak: Mod of https://github.com/VoronDesign/Voron-Switchwire
 
 ![front_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/front_ren.png?raw=true)
 
