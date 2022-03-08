@@ -4,7 +4,7 @@
 
 ## BOM: 
 Parts you receive from disassembling the Stock KP3s are not listed in the BOM. Please make sure you don´t loose any screws!
-There is no guarantee that this BOM covers all parts necessary tu build this Mod. It´s strongly recommendended to source higher quantities than listed here.
+There is no guarantee that this BOM covers all parts necessary to build this Mod. It´s strongly recommendended to source higher quantities than listed here.
 
 ### Toolhead + Toolhead Mount
 For the parts required to build the sailfin extruder, please refer to https://github.com/CroXY3D/Sailfin-Extruder
