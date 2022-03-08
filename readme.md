@@ -74,5 +74,5 @@ Disclaimer:
 This Mod comes with absolutely no warranty and there is no guarantee that developement will be continued in the future. If you want to raise awareness to any issue connected to this Mod, please open an issue here on github. In case you have any further legal questions, please read the license file.
 
 Credits:
-@screech24 for testing, building the first one and raising awareness to several issues 
-@eriroh    for developing the inital idea and developement support from the first scratch to the final design
+- @screech24 for testing, building the first one and raising awareness to several issues 
+- @eriroh    for developing the inital idea and developement support from the first scratch to the final design
