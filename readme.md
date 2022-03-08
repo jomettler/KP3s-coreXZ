@@ -1,4 +1,4 @@
-### Kingroon KP3s CoreXZ MOD / 'HALFWIRE'
+# Kingroon KP3s CoreXZ MOD / 'HALFWIRE'
 
 ![front_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/front_ren.png?raw=true)
 
@@ -6,7 +6,7 @@
 Parts you receive from disassembling the Stock KP3s are not listed in the BOM. Please make sure you don´t loose any screws!
 There is no guarantee that this BOM covers all parts necessary tu build this Mod. It´s strongly recommendended to source higher quantities than listed here.
 
-# Toolhead + Toolhead Mount
+### Toolhead + Toolhead Mount
 For the parts required to build the sailfin extruder, please refer to https://github.com/CroXY3D/Sailfin-Extruder
 For the parts required to build the Z-Probe, please refer to https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe Note, that the Probe is mounted with 3x M3x10 & 3x M3 TNut on the Z-Axis extrusion
 
@@ -18,7 +18,7 @@ For the parts required to build the Z-Probe, please refer to https://github.com/
 - 1x V6 Hotend
 - 6x HeatInsert M3x5
 
-# XZ:
+### XZ:
 - 11x M3x8
 - 31x M3x12
 - 2x M3x15
@@ -35,7 +35,7 @@ For the parts required to build the Z-Probe, please refer to https://github.com/
 - 1x MGN12-C 220mm Linear Rail
 - 4x M3x50 fully threaded
 
-# KeyBak:
+### KeyBak:
 - 4x M3x5 HeatInsert
 - 1x M5 Nut
 - 4x M3x12
@@ -43,7 +43,7 @@ For the parts required to build the Z-Probe, please refer to https://github.com/
 - 1x M5x16
 - 2x F695-2RS
 
-# Y:
+### Y:
 - 1x NEMA17
 - 1x 20T Pully
 - 17x M3x8
