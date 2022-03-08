@@ -26,48 +26,48 @@ Toolhead + Toolhead Mount
 For the parts required to build the sailfin extruder, please refer to https://github.com/CroXY3D/Sailfin-Extruder
 For the parts required to build the Z-Probe, please refer to https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe Note, that the Probe is mounted with 3x M3x10 & 3x M3 TNut on the Z-Axis extrusion
 
-2x M3x45
-4x M3x12
-4x M3x8 OR M3x10
-2x 4010 radial Fan
-1x 3010 axial Fan
-1x V6 Hotend
-6x HeatInsert M3x5
+- 2x M3x45
+- 4x M3x12
+- 4x M3x8 OR M3x10
+- 2x 4010 radial Fan
+- 1x 3010 axial Fan
+- 1x V6 Hotend
+- 6x HeatInsert M3x5
 
 XZ:
-11x M3x8
-31x M3x12
-2x M3x15
-4x M3x20
-2x M5x12
-4x M5x30
-2x M5x35 
-18x M3x5 Heat inserts
-20x F695-2RS
-1x 20T	Pully	
-2x 6x1300mm Belt
-19x M3N6 T nuts
-6x M5 Nut	
-1x MGN12-C 220mm Linear Rail
-4x M3x50 fully threaded
+- 11x M3x8
+- 31x M3x12
+- 2x M3x15
+- 4x M3x20
+- 2x M5x12
+- 4x M5x30
+- 2x M5x35 
+- 18x M3x5 Heat inserts
+- 20x F695-2RS
+- 1x 20T	Pully	
+- 2x 6x1300mm Belt
+- 19x M3N6 T nuts
+- 6x M5 Nut	
+- 1x MGN12-C 220mm Linear Rail
+- 4x M3x50 fully threaded
 
 KeyBak:
-4x M3x5 HeatInsert
-1x M5 Nut
-4x M3x12
-1x KeyBak
-1x M5x16
-2x F695-2RS
+- 4x M3x5 HeatInsert
+- 1x M5 Nut
+- 4x M3x12
+- 1x KeyBak
+- 1x M5x16
+- 2x F695-2RS
 
 Y:
-1x NEMA17
-1x 20T Pully
-17x M3x8
-12x M3x5 HeatInsert
-2x M3x12
-1x M3x15
-4x M3x16 (Option TriPoint Bed)
-4x M3x12 (Option orig. Bed)
+- 1x NEMA17
+- 1x 20T Pully
+- 17x M3x8
+- 12x M3x5 HeatInsert
+- 2x M3x12
+- 1x M3x15
+- 4x M3x16 (Option TriPoint Bed)
+- 4x M3x12 (Option orig. Bed)
 
 
 Disclaimer:
