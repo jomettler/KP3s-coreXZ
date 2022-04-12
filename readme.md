@@ -59,6 +59,9 @@ For the parts required to build the Z-Probe, please refer to https://github.com/
 
 ![back_ren.png](https://github.com/jomettler/KP3s-coreXZ/blob/main/pictures/back_ren.png?raw=true)
 
+## Updates:
+Some things will get updated (hopefully soon), some things probably won´t due to lack of time. Please note that in order to make things better, I need to be aware of issues. Feel free to open an issue, or if you fixed something, to open a PR!
+
 ## Disclaimer:
 This Mod comes with absolutely no warranty and there is no guarantee that developement will be continued in the future. If you want to raise awareness to any issue connected to this Mod, please open an issue here on github. In case you have any further legal questions, please read the license file.
 
